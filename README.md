@@ -18,5 +18,5 @@ Machine learning and Python developer. I build end-to-end ML pipelines, NLP mode
 Python, scikit-learn, PyTorch, HuggingFace Transformers, Streamlit, Flask, Groq API, pandas, numpy, threading
 
 ## Contact
-
 GitHub: [@hifsaiftikhar](https://github.com/hifsaiftikhar)
+LinkedIn: [Hifsa Iftikhar](https://www.linkedin.com/in/hifsa-iftikhar)
